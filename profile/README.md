@@ -21,7 +21,6 @@ from a few decades of building things.
 ## Notable repos
 
 - [`rekordbox-key-tool`](https://github.com/isd-labs/rekordbox-key-tool) — Convert Mixed In Key exports to Camelot Wheel notation in rekordbox.xml
-- [`dev-workspace`](https://github.com/isd-labs/dev-workspace) — Developer workspace control hub
 
 ---
 
